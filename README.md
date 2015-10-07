@@ -288,6 +288,7 @@ File nwb_utils.py provides the following utility functions that are useful when 
 	        Returns:
 	            *nothing*
 	    """
+```
 
 ### 3.6.  Example API calls
 
